@@ -1,2 +1,4 @@
 # Weather-App
-This is an application for fetching weather by zip-code using an API. This project is done using HTML, CSS and javascript.
+This is an application for searching US weather by zip-code. 
+This project is done using HTML, CSS, javascript, and an OpenWeatherMap API.
+
